@@ -132,7 +132,7 @@ class Venda(Banco):
         self.lbCodProduto.place(relx=0.02, rely=0.01)
         self.entryCodProduto = Entry(self.frame3, font=('verdana', 10, 'bold'), fg='#FF4500')
         self.entryCodProduto.place(relx=0.02, rely=0.18, relwidth=0.5, relheight=0.18)
-        print('ola')
+        
 
 
         self.lbQuantidade = Label(self.frame3, text='QUANTIDADE', bg='#008B8B', fg='white',font=('verdana', 12, 'bold'))
