@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import ttk
 
-from  telaEstoque1 import telaEstoque
+
 from banco import Banco
 import sqlite3
 
